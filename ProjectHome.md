@@ -1,0 +1,1 @@
+Inspired from Gnome's NetSpeed applet (http://projects.gnome.org/netspeed/)
